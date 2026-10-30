@@ -2,7 +2,7 @@
 
 A lightweight, high-performance, single-file monochromatic portfolio website designed for a Data Science and AI Engineering professional. Built purely with semantic HTML5, modern CSS, and vanilla JavaScript—free of external dependencies, libraries, or build pipelines.
 
-Live Demo: 
+Live Demo: [mubashir2003.github.io](https://mubashir2003.github.io/My-Portfolio/)
 
 ---
 
